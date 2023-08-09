@@ -32,3 +32,5 @@ npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
 1. Show the number of countries in the following components
  - AsyncOperationStatus
  - Counter
+ 
+ - how to solve? =>  useAppSelector
