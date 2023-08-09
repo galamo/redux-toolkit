@@ -25,3 +25,10 @@ npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
 - [Create React App](https://github.com/facebook/create-react-app/tree/main/packages/cra-template)
 - [Vite](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react)
 - [Vitest](https://github.com/vitest-dev/vitest/tree/main/examples/react-testing-lib)
+
+
+
+# Homework 9/8 
+1. Show the number of countries in the following components
+ - AsyncOperationStatus
+ - Counter
